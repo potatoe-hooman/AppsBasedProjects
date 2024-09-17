@@ -14,6 +14,13 @@ This repository serves as a landing page for all my Data and Design projects. Fe
 
 ---
 
+### 2. [Meals+ ]([https://www.figma.com/design/qYxf0lKaGUDlME5RxPsuAj/Daily-Ui?node-id=0-1&node-type=canvas](https://www.figma.com/proto/rNuu6fOscyXUrgXyMTjUt2/Google-UX-Certification?node-id=1-4&viewport=241%2C48%2C1.3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4))
+**Description**: User Journey / UX and wireframing
+
+- **Technologies**: Figma, Wireframing, UX, Interlinking 
+- **Purpose**: Practice [undestanding user_flow components], provides [specific functionality].
+
+---
 
 
 
