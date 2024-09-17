@@ -1,4 +1,4 @@
-# Welcome to My GitHub Projects 👋
+# Welcome to My App Based GitHub Projects 👋
 
 This repository serves as a landing page for all my Data and Design projects. Feel free to explore and contribute!
 
